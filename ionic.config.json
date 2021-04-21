@@ -1,0 +1,8 @@
+{
+  "name": "softland-billing-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6d2e3830"
+}
