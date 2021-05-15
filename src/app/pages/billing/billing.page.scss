@@ -1,0 +1,17 @@
+.productInvoiceRow {
+  display: flex;
+  align-items: center;
+  .checkboxColumn {
+    display: flex;
+    align-items: center;
+    ion-label {
+      margin-left: 0.5rem;
+    }
+  }
+  .inputColumn {
+    ion-input {
+      border: 1px solid;
+      border-radius: .3rem;
+    }
+  }
+}
